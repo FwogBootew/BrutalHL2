@@ -796,6 +796,20 @@
 	"wave"			"weapons/sniper/sniper_zoomout.wav"
 }
 
+
+"Weapon_Quadshot.Double"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.00"
+	"soundlevel"	"SNDLVL_150dB"
+	"pitch"			"98,101"
+	"rndwave"
+	{
+		"wave"			"weapons/shotgun/shotgun_quadfire1.wav"
+		"wave"			"weapons/shotgun/shotgun_quadfire2.wav"
+	}
+}
+
 // weapon_shotgun.txt
 "Weapon_Shotgun.Empty"
 {
